@@ -1,0 +1,11 @@
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+chromadb
+sentence-transformers
+streamlit
+langgraph
+pyyaml
+flask
+pillow

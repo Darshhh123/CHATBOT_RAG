@@ -1,0 +1,8 @@
+env2/
+env/
+__pycache__/
+*.pyc
+app/hospital_db/
+secrets.yaml
+.streamlit/secrets.toml
+.DS_Store

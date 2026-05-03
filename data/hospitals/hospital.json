@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Government Veterinary Dispensary Nashik",
+    "city": "Nashik",
+    "area": "Panchavati",
+    "state": "Maharashtra",
+    "animals_supported": ["dog", "cat", "cow", "goat"],
+    "services": ["general checkup", "vaccination", "first aid"],
+    "emergency": false,
+    "contact": "0253-XXXXXXX",
+    "type": "government"
+  },
+  {
+    "name": "District Veterinary Hospital Nashik",
+    "city": "Nashik",
+    "area": "Gangapur Road",
+    "state": "Maharashtra",
+    "animals_supported": ["dog", "cat", "livestock"],
+    "services": ["surgery", "diagnostics", "emergency care"],
+    "emergency": true,
+    "contact": "0253-XXXXXXX",
+    "type": "government"
+  },
+  {
+    "name": "Paws & Claws Veterinary Clinic",
+    "city": "Nashik",
+    "area": "College Road",
+    "state": "Maharashtra",
+    "animals_supported": ["dog", "cat"],
+    "services": ["general care", "vaccination", "deworming"],
+    "emergency": false,
+    "contact": "9XXXXXXXXX",
+    "type": "private"
+  },
+  {
+    "name": "Happy Tails Pet Clinic",
+    "city": "Nashik",
+    "area": "Indira Nagar",
+    "state": "Maharashtra",
+    "animals_supported": ["dog", "cat"],
+    "services": ["skin treatment", "nutrition advice"],
+    "emergency": false,
+    "contact": "9XXXXXXXXX",
+    "type": "private"
+  },
+  {
+    "name": "Animal Care NGO Nashik",
+    "city": "Nashik",
+    "area": "Dwarka",
+    "state": "Maharashtra",
+    "animals_supported": ["dog", "cat", "injured stray"],
+    "services": ["rescue", "first aid", "rehabilitation"],
+    "emergency": true,
+    "contact": "9XXXXXXXXX",
+    "type": "ngo"
+  },
+  {
+    "name": "Veterinary Polyclinic Nashik Road",
+    "city": "Nashik",
+    "area": "Nashik Road",
+    "state": "Maharashtra",
+    "animals_supported": ["dog", "cat", "cow", "goat"],
+    "services": ["general treatment", "vaccination"],
+    "emergency": false,
+    "contact": "0253-XXXXXXX",
+    "type": "private"
+  }
+]
