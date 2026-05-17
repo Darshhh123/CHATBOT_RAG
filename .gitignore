@@ -3,6 +3,6 @@ env/
 __pycache__/
 *.pyc
 app/hospital_db/
-secrets.yaml
+app/secrets.yaml
 .streamlit/secrets.toml
 .DS_Store
