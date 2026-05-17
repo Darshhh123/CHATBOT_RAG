@@ -13,6 +13,7 @@ if secrets_path.exists():
         secrets = yaml.safe_load(f)
     os.environ["GOOGLE_API_KEY"] = secrets.get("api_key", "")
 else:
+   
     # Try environment variable as fallback
     if not os.getenv("GOOGLE_API_KEY"):
         raise ValueError("GOOGLE_API_KEY not found in secrets.yaml or environment variables")
