@@ -1,8 +1,8 @@
-env2/
-env/
+.venv/
+venv/
 __pycache__/
-*.pyc
-app/hospital_db/
-app/secrets.yaml
-.streamlit/secrets.toml
-.DS_Store
+*.py[cod]
+.env
+.pytest_cache/
+.mypy_cache/
+.coverage

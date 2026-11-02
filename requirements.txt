@@ -1,11 +1,20 @@
-langchain
-langchain-google-genai
-langchain-community
-langchain-core
-chromadb
-sentence-transformers
-streamlit
-langgraph
-pyyaml
-flask
-pillow
+
+# FastAPI
+fastapi>=0.115.0,<1.0.0
+uvicorn[standard]>=0.30.0,<1.0.0
+
+# Validation and configuration
+pydantic>=2.7.0,<3.0.0
+pydantic-settings>=2.3.0,<3.0.0
+email-validator>=2.1.0
+python-dotenv>=1.0.0
+
+# PostgreSQL - Neon database
+sqlalchemy>=2.0.0,<3.0.0
+psycopg[binary]>=3.2.0
+python-jose[cryptography]>=3.3.0
+pwdlib[argon2]>=0.2.0
+
+# Testing
+pytest>=8.0.0
+httpx>=0.27.0

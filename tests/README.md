@@ -1,0 +1,1 @@
+Add automated API tests here in the next development stage. Run the server and use /docs for current manual smoke testing.\n
